@@ -1,0 +1,4 @@
+actions -> action of the program
+assets -> photo (images), css
+classes -> class files (collection of properties and methods, which will be a bluepoint)
+views -> html files
